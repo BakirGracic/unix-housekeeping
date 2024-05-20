@@ -70,4 +70,5 @@ clean_package_management
 clean_node_cache
 
 echo "$(print_date)All cleanup tasks completed."
+echo "-----------------------------------------"
 echo
