@@ -9,7 +9,7 @@
 
 ### How to
 - `cd` in `/root/`
-- run `https://github.com/BakirGracic/linux-bleach`
+- run `git clone https://github.com/BakirGracic/linux-bleach`
 - `cd` inside `linux-bleach`
 - run `sudo chmod +x installer.sh && sudo chmod +x main.sh`
 - run installer `./installer.sh`
